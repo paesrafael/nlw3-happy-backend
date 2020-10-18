@@ -106,4 +106,4 @@ npm dev
 
 # Autor
 
-NLW3 - Happy desenvolvido por [Rafael Paes](https://github.com/paesrafael/nlw3-happy-backend)
+NLW3 - Happy desenvolvido por [Rafael Paes](https://github.com/paesrafael/)
